@@ -1,5 +1,5 @@
 # To_Do_App-Kotlin
-A ToDo application for Android built with Kotlin and Google Firebase Firestone
+A ToDo application for Android built with Google Firebase Firestone Cloud database storage.
 I have used some third party libraries for only UI design.
 
 Third party libraries are
