@@ -1,13 +1,15 @@
-# To_Do_App-Kotlin
-A ToDo application for Android built with Google Firebase Firestone Cloud database storage.
-I have used some third party libraries for only UI design.
+# To_Do_App
+To-Do list application which uses Cloud FireStore to store the data.
+Data can be added, Realtime updated, Deleted.
+The database can be viewed in the Firebase console.
+Worked with some third-party libraries for UI design.
+Built the list using Recycler View. Used Card View Class for Frame Layout.
 
 Third party libraries are
   * MaterialEditText-2.1.4
   * Spots progress dialog.
-Thanks for the team for library develover.
-
-In this app : Add data. Retrive data or Realtime Database update. Update the data. Delete the data.
+  
+Appreciate the team for library development.
 
 ## To Do
-make it more graphical friendly by adding more colors
+Make it more vivid by adding more colors.
